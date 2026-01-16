@@ -13,23 +13,19 @@ The project focuses on individual personal finance, avoiding complex accounting 
 | Hrishikesh Dipak Desai   | Budget & Investment Tracking Module    | TBD         | hrishikesh.desai@myseneca.ca   |
 
 
-# Key Features
+##  Key Features
 
-Expense and income tracking
+- Log and manage daily expenses with categories and notes  
+- Record and track income from multiple sources  
+- View income and expense history over selected date ranges  
+- Plan budgets and monitor spending limits  
+- Track basic investments for high-level financial awareness  
+- Visual dashboards with charts and summaries  
+- Automatic analytics updates when financial data changes  
+- Rule-based alerts when budget limits are exceeded  
+- Downloadable financial reports for offline review  
+- Simple, intuitive, and user-friendly interface  
 
-Expense categorization and filtering
-
-Budget planning and monitoring
-
-Basic investment tracking
-
-Financial dashboards and visual analytics
-
-Rule-based alerts for budget limits
-
-Downloadable financial reports
-
-Secure user data handling
 
 
 
