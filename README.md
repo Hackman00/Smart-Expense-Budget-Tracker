@@ -3,13 +3,14 @@ The Smart Expense &amp; Budget Tracker for Individuals is a web or mobile-based 
 
 The project focuses on individual personal finance, avoiding complex accounting features, external banking integrations, or advanced AI systems. Instead, it uses rule-based logic and data visualization to provide meaningful insights while remaining technically achievable within a 12-week capstone timeline for a four-person team.
 
-# Developers
-
 ## 🔗 Developers
 
-| Name       | Role | GitHub     | Email                  |
-|------------|------|------------|------------------------|
-| Arya Manek | Dev  | Hackman00  | ammanek@myseneca.ca    |
+| Name                     | Role                                   | GitHub      | Email                          |
+|--------------------------|----------------------------------------|-------------|--------------------------------|
+| Arya Manek               | Analytics, Reports & System Module     | Hackman00   | ammanek@myseneca.ca            |
+| Dang Khoa Vo             | Expense Management Module              | TBD         | dang.vo@myseneca.ca            |
+| Trung Hieu Duong         | Income Management Module               | TBD         | trung.duong@myseneca.ca        |
+| Hrishikesh Dipak Desai   | Budget & Investment Tracking Module    | TBD         | hrishikesh.desai@myseneca.ca   |
 
 
 # Key Features
@@ -32,9 +33,9 @@ Secure user data handling
 
 
 
-### Technology Stack (Preliminary)
+# Technology Stack (Preliminary)
 
-# Frontend
+### Frontend
 
 HTML, CSS, JavaScript
 
@@ -42,7 +43,7 @@ Responsive UI design for dashboards and charts
 
 Charting libraries for data visualization (e.g., bar and pie charts)
 
-# Backend
+### Backend
 
 Node.js with Express.js
 
@@ -50,13 +51,13 @@ RESTful APIs for managing expenses, income, budgets, and analytics
 
 Rule-based logic for alerts and summaries
 
-# Database
+### Database
 
 Relational or NoSQL database (e.g., MySQL or MongoDB)
 
 Structured storage for users, expenses, income, budgets, and reports
 
-# Development Tools
+### Development Tools
 
 Visual Studio Code
 
