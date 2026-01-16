@@ -3,8 +3,8 @@ The Smart Expense &amp; Budget Tracker for Individuals is a web or mobile-based 
 
 # Developers
 
-| Name | Role | Github  |  Email
-|--------|-------------|--------|
-| Arya Manek  |  | Hackman00 |  ammanek@myseneca.ca
-|     |  |  |
-|     |  |  |
+## 🔗 Developers
+
+| Name       | Role | GitHub     | Email                  |
+|------------|------|------------|------------------------|
+| Arya Manek | Dev  | Hackman00  | ammanek@myseneca.ca    |
